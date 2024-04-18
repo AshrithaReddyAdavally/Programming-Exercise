@@ -5,4 +5,4 @@
 **3. What’s the computational complexity of your solution?**\
    It's not too complicated! The time it takes depends on the number of vertices (points) and edges (connections) in the graph. So, if there are V vertices and E edges, the time it takes is proportional to V + E. That's not too bad!\
 **4. Are there any unusual cases that aren't handled?**\
-   Yes, the solution assumes that the graph doesn't have any loops. If there are loops, like going from A to B and then back to A, the method might not work correctly. So, it's important to make sure the graph is a special type called a directed acyclic graph (DAG).\
+   Yes, the solution assumes that the graph doesn't have any loops. If there are loops, like going from A to B and then back to A, the method might not work correctly. So, it's important to make sure the graph is a special type called a directed acyclic graph (DAG).
